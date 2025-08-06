@@ -1,5 +1,4 @@
-import { useState } from "react";
-import apple from "../assets/logos/logoRIF.jpg";
+import apple from "../assets/logos/logoI.jpg";
 import samsung from "../assets/logos/logoSAM.jpg";
 import xiaomi from "../assets/logos/logoX.jpg";
 import oppo from "../assets/logos/logoO.png";
